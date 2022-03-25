@@ -29,6 +29,8 @@ dist/
 dist-mdd-ide/
 dist-helper/
 out/
+*.class
+*.jar
 
 # Coverage
 lib-cov
@@ -40,6 +42,6 @@ test/cases/*/dest
 
 #tmp
 .tmp
-low-code-fe-*
 
+package-lock.json
 app.config.jsonc
